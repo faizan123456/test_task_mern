@@ -29,5 +29,5 @@ Test task Mern App.
   npm start OR yarn start
   ```
 
-## Using dubae-verse API's
+## Using Express API's
 - Go to [localhost:5000/](http://localhost:5000/[endpoint]/)
